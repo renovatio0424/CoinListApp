@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CoinListApp</string>
+    <string name="coin_list_error">Error</string>
+</resources>
